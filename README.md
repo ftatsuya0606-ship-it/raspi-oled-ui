@@ -1,5 +1,4 @@
 # raspi-oled-ui
-main.py
 # Raspberry Pi 制御システム（訓練課題ベース）
 
 ## 概要
